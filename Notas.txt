@@ -1,0 +1,7 @@
+-- Problemas que hay ahorita
+
+- Estancamiento (no hay piezas válidas para seleccionar), ejemplo cuando no queda pieza rival
+
+- Advertencias de compilación
+
+- La funcinalidad de la reina no se hizo

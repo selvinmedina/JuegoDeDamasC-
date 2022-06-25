@@ -14,7 +14,7 @@ ElementoA::ElementoA()
 
 ElementoA::ElementoA(int x, int y)
 {
-
+	cout << "Creando Elemento A x: " << x << ", y: " << y << endl;
 	posicion[0] = x;
 	posicion[1] = y;
 

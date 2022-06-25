@@ -132,10 +132,11 @@ void Tablero::inicializar()
 			agregarElemento(ptrPieza[i + j]);
 		}
 	}
+	
 	cout << "Elementos del jugador 'B' colocados." << endl;
 
 	actualizarTablero();
-	cout << "¡El tablero está listo!" << endl;
+
 	cout << "¡El tablero está listo!" << endl;
 }
 
